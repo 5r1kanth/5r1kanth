@@ -1,5 +1,9 @@
 ### Hi there 👋
+
 "Building in the publicly available private space 🚀 | Passionate student developer sharing code and projects openly with the community | Exploring [your interests/technologies] | Let's collaborate and create something special! 🌐🔒"
+
+"Exploring the intersection of innovation and privacy in the publicly available private space 🚀 | Student developer on a journey to share code openly while cherishing the essence of exclusivity | Proficient in [your programming languages/technologies] | Currently delving into [specific areas of interest] | Let's collaboratively craft solutions that resonate in this dynamic digital landscape! 🌐🔒 | Open to learning, contributing, and connecting with like-minded enthusiasts. 💻✨"
+
 <!--
 **5r1kanth/5r1kanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
